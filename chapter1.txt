@@ -1,4 +1,2 @@
 
-je fais mon premier pas avec GIT dans le control de version.
-
-
+je fais mon premier pas avec GIT lors du processus du control de version.
